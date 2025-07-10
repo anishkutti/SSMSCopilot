@@ -24,3 +24,19 @@ Whether you're writing stored procedures, analyzing execution plans, or explorin
 
 
 ## Typical Database Person's
+ Monitor SQL Server Instance Health: Check uptime, CPU/memory usage, and error logs.
+
+1. Prompt: Check uptime of the server
+2. Prompt: Show  CPU/memory usage
+3. Prompt: Show recent errors.  
+4. Prompt: Show error Logs
+
+Backup Validation: Ensure full, differential, and transaction log backups are completed and restorable.
+Suggest a backup strategy
+Provide a failover plan
+
+Job Monitoring: Review SQL Server Agent jobs for failures or delays.
+Disk Space Checks: Monitor drive volumes to prevent outages due to storage limits.
+Login Audits: Check for failed login attempts and unauthorized access.
+Blocking and Deadlocks: Identify and resolve long-running queries or blocking chains.
+Performance Metrics: Track key indicators like query execution time, index usage, and wait stats.
