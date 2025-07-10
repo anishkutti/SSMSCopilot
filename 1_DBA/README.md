@@ -2,7 +2,7 @@
 
 SQL Server Management Studio (SSMS) 21 Integration with Copilot marks a significant leap forward in developer productivity and intelligent database management.
 
-<img width="572" height="350" alt="dba_role" src="https://github.com/user-attachments/assets/db32c6c1-e845-4fe6-98bc-2894bad7dca5" />
+<img width="350" height="350" alt="dba_role" src="https://github.com/user-attachments/assets/db32c6c1-e845-4fe6-98bc-2894bad7dca5" />
 
 With Copilot embedded directly into SSMS, SQL developers can now leverage natural language prompts to generate T-SQL queries, optimize performance, and troubleshoot issues—all within their familiar development environment. 
 
