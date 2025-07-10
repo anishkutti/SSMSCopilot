@@ -15,9 +15,9 @@ Whether you're writing stored procedures, analyzing execution plans, or explorin
 
 | Role                        | Description                                                                                  | Examples                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Database Administrator (DBA)| Manages database servers, security, backups, and performance tuning.                         | [DBA Examples](./DBA/README.md)                                                            |
-| SQL Developer               | Writes and optimizes SQL queries, stored procedures, and database logic.                     | [SQL Developer Examples](./SQLDeveloper/README.md)                                         |
-| Data Analyst                | Uses SQL to extract and analyze data for reporting and insights.                             | [Data Analyst Examples](./DataAnalyst/README.md)                                           |
+| Database Administrator (DBA)| Manages database servers, security, backups, and performance tuning.                         | [DBA Examples](./1_DBA/README.md)                                                            |
+| SQL Developer               | Writes and optimizes SQL queries, stored procedures, and database logic.                     | [SQL Developer Examples](./2_SQL_Developer/README.md)                                         |
+| Data Analyst                | Uses SQL to extract and analyze data for reporting and insights.                             | [Data Analyst Examples](./3_Data_Analyst/README.md)                                           |
 | Application Developer       | Integrates SQL queries into application code (e.g., using Python, .NET, Java).               | [App Developer Examples](./ApplicationDeveloper/README.md)                                 |
-| DevOps                      | Responsible for making DML/DDL release                                                       | [DevOps Examples](./DevOps/README.md)                                                      |
+| DevOps                      | Responsible for making DML/DDL release                                                       | [DevOps Examples](./4_DevOps/README.md)                                                      |
 | End User                    | Interacts with data indirectly through applications                                          | [End User Examples](./EndUser/README.md)
