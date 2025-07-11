@@ -46,7 +46,7 @@ Plan cache usage is efficient, with minimal bloat observed.
 Disk I/O Usage
 Under construction...
  
-Disk Space Usage
+Disk Space Summary
 Database: Automobiledb
 Database Size: 500 MB
 Unallocated Space: 100 MB
