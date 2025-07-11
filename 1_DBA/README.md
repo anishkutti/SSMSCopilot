@@ -12,7 +12,7 @@ SSMS-Copilot augments DBA's capabilities by surfacing insights faster, and provi
 * Prompt: Show recent errors.  
 * Prompt: Show error Logs
 
-## Backup & Failover - Rezeliance
+## Backup & Failover - Resilience
 * Backup Validation: Ensure full, differential, and transaction log backups are completed and restorable.
     * Suggest a backup strategy
     * Provide a failover plan
