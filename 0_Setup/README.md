@@ -1,10 +1,5 @@
 # Setup SSMS
 
-<kbd> 
-<img width="460" height="360" alt="ssmsCopilotBanner" src="https://github.com/user-attachments/assets/b81951cf-2c78-4b39-9e0e-b945ce50e43d" />
-</kbd> 
-<br/>
-
 With Copilot deveopers can now setup data in minutes instead of days
 
 
