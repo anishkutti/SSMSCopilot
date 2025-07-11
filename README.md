@@ -17,6 +17,13 @@ This integration brings AI-assisted coding, context-aware suggestions, and real-
 
 Whether you're writing stored procedures, analyzing execution plans, or exploring data, Copilot in SSMS 21 transforms how developers interact with SQL Server.
 
+## Setup & Automation
+| Role                        | Copilot Scenarios & Examples                                                                                   |
+|-----------------------------|--------------------------------------------------------------------------------------------|
+| Setup                       | [Setup](./0_Setup/README.md)                                                            |
+| Automation                  | [Automation Examples](./Automation/README.md)                                                            |
+| Data Transform & Curate     | [DataTransformation Examples](./Role_SQL_Developer/README.md)                                         |
+| New Feature Exploration     | [New Features Examples](./Role_Data_Analyst/README.md)                                           
 
 ## Examples by Database Persona's
 
@@ -27,13 +34,6 @@ Whether you're writing stored procedures, analyzing execution plans, or explorin
 | Data Analyst                | [Data Analyst Examples](./Role__Data_Analyst/README.md)                                           |
 | DevOps                      | [DevOps Examples](./Role__DevOps/README.md)                                                      
 
-## Setup & Automation
-| Role                        | Copilot Scenarios & Examples                                                                                   |
-|-----------------------------|--------------------------------------------------------------------------------------------|
-| Setup                       | [Setup](./0_Setup/README.md)                                                            |
-| Automation                  | [Automation Examples](./Automation/README.md)                                                            |
-| Data Transform & Curate     | [DataTransformation Examples](./Role_SQL_Developer/README.md)                                         |
-| New Feature Exploration     | [New Features Examples](./Role_Data_Analyst/README.md)                                           
 
 
 ## Data Transform & Curate
