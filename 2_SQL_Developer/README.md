@@ -19,6 +19,7 @@ SQL Server Management Studio (SSMS) Copilot is a powerful AI assistant that sign
 # Tunning and Re-writing
 * Add comments in the  stored proc dbo.GetCustomerOrders. Also re-write it
 * Before:
+ ````
   CREATE PROCEDURE GetCustomerOrders
     @CustomerID INT
    AS
@@ -32,13 +33,13 @@ SQL Server Management Studio (SSMS) Copilot is a powerful AI assistant that sign
              WHERE Customer_ID = @CustomerID
          );
    END;
-  
+   ````
    After
      Changes Made:
    1.	Explicit Column Selection: Replaced SELECT * with specific column names (Customer_ID, sales_date, sales_amount) to improve clarity and performance.
    2.	Simplified Subquery Logic: Used = instead of IN for matching the latest sales date, as MAX returns a single value.
    3.	Added Comments: Documented each part of the procedure for better readability and maintainability.
-      
+       ````
      -- Created by Copilot in SSMS - review carefully before executing
      /*
      Purpose:
@@ -61,3 +62,4 @@ SQL Server Management Studio (SSMS) Copilot is a powerful AI assistant that sign
                WHERE Customer_ID = @CustomerID -- Filter by customer ID
            );
      END;
+ ````
