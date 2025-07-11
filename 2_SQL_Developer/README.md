@@ -1,27 +1,6 @@
-# Sql Server Management Studio 21 (SSMS) Integration with Copilot
+# Sql Server Management Studio 21 (SSMS) Integration with Copilot for Sql Developers
 
-SQL Server Management Studio (SSMS) 21 Integration with Copilot marks a significant leap forward in developer productivity and intelligent database management.
-![sqldeveloper](https://github.com/user-attachments/assets/1cda2c5b-8953-4848-8ef7-49812cf3667e)
+SQL Server Management Studio (SSMS) Copilot is a powerful AI assistant that significantly enhances the productivity and capabilities of SQL Server developers.
 
-<img width="572" height="350" alt="ssmsCopilotBanner"  src="https://github.com/user-attachments/assets/4b30e685-c1b7-44f0-856a-d70766ecd7d0" style="border: 2px solid grey;border-radius: 20px;"/>
-
-With Copilot embedded directly into SSMS, SQL developers can now leverage natural language prompts to generate T-SQL queries, optimize performance, and troubleshoot issues—all within their familiar development environment. 
-
-This integration brings AI-assisted coding, context-aware suggestions, and real-time insights into query plans and schema design, streamlining complex tasks and accelerating development cycles. 
-
-Whether you're writing stored procedures, analyzing execution plans, or exploring data, Copilot in SSMS 21 transforms how developers interact with SQL Server.
-
-
-## Typical Database Persona's in a Organization
-
-| Role                        | Description                                                                                  |
-|-----------------------------|----------------------------------------------------------------------------------------------|
-| Database Administrator (DBA)| Manages database servers, security, backups, and performance tuning.                         |
-| SQL Developer               | Writes and optimizes SQL queries, stored procedures, and database logic.                     |
-| Data Analyst                | Uses SQL to extract and analyze data for reporting and insights.                             |
-| Application Developer       | Integrates SQL queries into application code (e.g., using Python, .NET, Java).               |
-| DevOps                      | Responsible for making DML/DDL release                                                       |
-| End User                    | Interacts with data indirectly through applications
-
-
-## Typical Database Person's
+<img width="350" height="350" alt="sqldev" src="https://github.com/user-attachments/assets/29efd10d-ee62-4af6-af6b-74a26f5ca1fe" />
+ 
