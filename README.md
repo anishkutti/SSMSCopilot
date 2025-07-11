@@ -5,7 +5,7 @@ SQL Server Management Studio (SSMS) 21 Integration with Copilot marks a signific
 <kbd> 
 
 <picture>
-<img width="100%" height="300px" alt="ssmsCopilotBanner" src="https://github.com/user-attachments/assets/6f68e874-6086-4b22-98bd-877dbd94df8c" />
+<img width="100%" height="400px" alt="ssmsCopilotBanner" src="https://github.com/user-attachments/assets/6f68e874-6086-4b22-98bd-877dbd94df8c" />
 </picture>
 </kbd> 
 <br/>
