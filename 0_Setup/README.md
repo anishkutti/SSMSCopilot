@@ -1,14 +1,8 @@
-# Sql Server Management Studio 21 (SSMS) Integration with Copilot - Automation
-
-SQL Server Management Studio (SSMS) 21 Integration with Copilot marks a significant leap forward in developer productivity and intelligent database management.
+# SSMS Integration with Copilot - Automation
 
 <img width="572" height="350" alt="aidatasetup" src="https://github.com/user-attachments/assets/38e3ac0f-c914-48d3-81f8-8f55fa8755c7" />
 
-With Copilot embedded directly into SSMS, SQL developers can now leverage natural language prompts to generate T-SQL queries, optimize performance, and troubleshoot issues—all within their familiar development environment. 
-
-This integration brings AI-assisted coding, context-aware suggestions, and real-time insights into query plans and schema design, streamlining complex tasks and accelerating development cycles. 
-
-Whether you're writing stored procedures, analyzing execution plans, or exploring data, Copilot in SSMS 21 transforms how developers interact with SQL Server.
+With Copilot deveopers can now setup data in minutes instead of days
 
 
 ## Automation 
