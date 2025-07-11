@@ -12,5 +12,6 @@ SQL Server Management Studio (SSMS) Copilot is a powerful AI assistant that sign
 * Is any tables connected to each other
 * Show queries from query store which is the slowest
 * Explain me the database tables. Include tableInfo extended property
-	
+* Show me the frequently executed stored procs
+* 	
 * Is any table having confidential fields like social
