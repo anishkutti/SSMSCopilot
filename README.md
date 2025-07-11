@@ -34,26 +34,10 @@ Whether you're writing stored procedures, analyzing execution plans, or explorin
 		Add atleast 5 columns in customer_demo and sales_demo
 		Add 50 sample records which has real product names and customer names in each table
 		Use tech company names
-	2b. Add 100 more sample data in dbo.sales_demo for year 2023. use customer_id between 1 to 5
+	* Add 100 more sample data in dbo.sales_demo for year 2023. use customer_id between 1 to 5
 
-	2c. Add 10 new columns in product_demo. make column names look real
+	* Add 10 new columns in product_demo. make column names look real
 
-## Analytical	
-	* Write a query which will show the sales by customer, product and month
-
-	* Show top 10 sales by product and company by year and month. show the query as well
-
-	* Detect anomoly
-
-		alter table customer_demo
-		add customer_rating int
-		update customer_demo
-		set customer_rating =1
-
-		update customer_demo
-		set customer_rating = null where customer_id =5
-	
-	 Detect anomoly in customer_demo table. show the query as well
 
 ## Data Transform & Curate
 	* Write a stored proc which will create a flat table and populate it with customer, product and sales info by month
