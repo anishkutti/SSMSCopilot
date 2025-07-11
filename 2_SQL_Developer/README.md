@@ -7,7 +7,7 @@ SQL Server Management Studio (SSMS) Copilot is a powerful AI assistant that sign
 ## Document Table Purpose
 * Add extended property named TableInfo to all tables. Populate it with meaniful table purpose
 
- ## Assist New Joinners
+## Assist New Joinners
 * Explain me the database tables
 * Is any tables connected to each other
 * Show queries from query store which is the slowest
@@ -16,7 +16,7 @@ SQL Server Management Studio (SSMS) Copilot is a powerful AI assistant that sign
 * 	
 * Is any table having confidential fields like social
 
-# Tunning and Re-writing
+## Tunning and Re-writing
 * Add comments in the  stored proc dbo.GetCustomerOrders. Also re-write it
   
 * Before:
