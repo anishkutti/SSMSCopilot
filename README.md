@@ -3,7 +3,7 @@
 SQL Server Management Studio (SSMS) 21 Integration with Copilot marks a significant leap forward in developer productivity and intelligent database management.
 
 <kbd> 
-<img width="460" height="360" alt="ssmsCopilotBanner" src="https://github.com/user-attachments/assets/b81951cf-2c78-4b39-9e0e-b945ce50e43d" />
+<img width="520" height="360" alt="ssmsCopilotBanner" src="https://github.com/user-attachments/assets/b81951cf-2c78-4b39-9e0e-b945ce50e43d" />
 </kbd> 
 <br/>
 
