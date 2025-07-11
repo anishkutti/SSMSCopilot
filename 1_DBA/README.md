@@ -30,4 +30,4 @@ Performance Metrics: Track key indicators like query execution time, index usage
 * Security Prompt: Implement access controls, encryption, and authentication protocols.
 
 ## Configuration
-* Set up alerts for job failures to email anishkutti@microsoft.com
+* Set up alerts for job failures to email <email address>
