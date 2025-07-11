@@ -19,10 +19,10 @@ Whether you're writing stored procedures, analyzing execution plans, or explorin
 | Role                        | Copilot Scenarios & Examples                                                                                   |
 |-----------------------------|--------------------------------------------------------------------------------------------|
 | Database Administrator (DBA)| [DBA Examples](./1_DBA/README.md)                                                            |
-| SQL Developer               | [SQL Developer Examples](./Role_SQL_Developer/README.md)                                         |
-| Data Analyst                | [Data Analyst Examples](./Role_Data_Analyst/README.md)                                           |
-| Application Developer       | [App Developer Examples](./Role_ApplicationDeveloper/README.md)                                 |
-| DevOps                      | [DevOps Examples](./Role_DevOps/README.md)                                                      
+| SQL Developer               | [SQL Developer Examples](./2_SQL_Developer/README.md)                                         |
+| Data Analyst                | [Data Analyst Examples](./3_Data_Analyst/README.md)                                           |
+| Application Developer       | [App Developer Examples](./ApplicationDeveloper/README.md)                                 |
+| DevOps                      | [DevOps Examples](./4_DevOps/README.md)                                                      
 
 
 
