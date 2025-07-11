@@ -7,15 +7,15 @@ SSMS-Copilot augments DBA's capabilities by surfacing insights faster, and provi
 
 ## Monitor SQL Server Instance Health
 
-* 1. Prompt: Check uptime of the server
-* 2. Prompt: Show  CPU/memory usage
-* 3. Prompt: Show recent errors.  
-* 4. Prompt: Show error Logs
+* Prompt: Check uptime of the server
+* Prompt: Show  CPU/memory usage
+* Prompt: Show recent errors.  
+* Prompt: Show error Logs
 
 ## Backup & Failover - Rezeliance
 * Backup Validation: Ensure full, differential, and transaction log backups are completed and restorable.
-* Suggest a backup strategy
-* Provide a failover plan
+    * Suggest a backup strategy
+    * Provide a failover plan
 
 Job Monitoring: Review SQL Server Agent jobs for failures or delays.
 Disk Space Checks: Monitor drive volumes to prevent outages due to storage limits.
