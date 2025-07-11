@@ -1,24 +1,17 @@
-# Sql Server Management Studio 21 (SSMS) Integration with Copilot
 
-SQL Server Management Studio (SSMS) 21 Integration with Copilot marks a significant leap forward in developer productivity and intelligent database management.
+## Analytical	
+	* Write a query which will show the sales by customer, product and month
 
-<img width="572" height="350" alt="ssmsCopilotBanner"  src="https://github.com/user-attachments/assets/4b30e685-c1b7-44f0-856a-d70766ecd7d0" style="border: 2px solid grey;border-radius: 20px;"/>
+	* Show top 10 sales by product and company by year and month. show the query as well
 
-With Copilot embedded directly into SSMS, SQL developers can now leverage natural language prompts to generate T-SQL queries, optimize performance, and troubleshoot issues—all within their familiar development environment. 
+	* Detect anomoly
 
-This integration brings AI-assisted coding, context-aware suggestions, and real-time insights into query plans and schema design, streamlining complex tasks and accelerating development cycles. 
+		alter table customer_demo
+		add customer_rating int
+		update customer_demo
+		set customer_rating =1
 
-Whether you're writing stored procedures, analyzing execution plans, or exploring data, Copilot in SSMS 21 transforms how developers interact with SQL Server.
-
-
-## Typical Database Persona's in a Organization
-
-| Role                        | Description                                                                                  |
-|-----------------------------|----------------------------------------------------------------------------------------------|
-| Database Administrator (DBA)| Manages database servers, security, backups, and performance tuning.                         |
-| SQL Developer               | Writes and optimizes SQL queries, stored procedures, and database logic.                     |
-| Data Analyst                | Uses SQL to extract and analyze data for reporting and insights.                             |
-| DevOps                      | Responsible for making DML/DDL release                                                       |
-
-
-## Typical Database Person's
+		update customer_demo
+		set customer_rating = null where customer_id =5
+	
+	 Detect anomoly in customer_demo table. show the query as well
