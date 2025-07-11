@@ -8,14 +8,13 @@
 With Copilot deveopers can now setup data in minutes instead of days
 
 
-## Setup 
-
-* Core Reference
+## Core Reference
 	The following link has the upto-date setup info
 	https://learn.microsoft.com/en-us/ssms/copilot/copilot-in-ssms-install
 
-* Modify Setting
-	"how to change copilot settings"
+## Setup 
+* Prompts to Modify Setting
+    * "how to change copilot settings"
 
 * Initial Prompts
 	* How can you help me
