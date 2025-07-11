@@ -21,25 +21,14 @@ Whether you're writing stored procedures, analyzing execution plans, or explorin
 | Database Administrator (DBA)| [DBA Examples](./1_DBA/README.md)                                                            |
 | SQL Developer               | [SQL Developer Examples](./Role_SQL_Developer/README.md)                                         |
 | Data Analyst                | [Data Analyst Examples](./Role_Data_Analyst/README.md)                                           |
-| Application Developer       | [App Developer Examples](./Role_ApplicationDeveloper/README.md)                                 |
 | DevOps                      | [DevOps Examples](./Role_DevOps/README.md)                                                      
 
-
-
-
-## Automation 
-	* Creating tables and populating it
-		Create a table having automobile parts. Include 50 columns. Add sample records which looks real. execute it
-
-	* Create realtional tables and populate it
-		"Create customer_demo, product_demo, sales_demo  tables
-		Link all together
-		Add atleast 5 columns in customer_demo and sales_demo
-		Add 50 sample records which has real product names and customer names in each table
-		Use tech company names"
-	* Add 100 more sample data in dbo.sales_demo for year 2023. use customer_id between 1 to 5
-
-	* Add 10 new columns in product_demo. make column names look real
+## Setup & Automation
+| Role                        | Copilot Scenarios & Examples                                                                                   |
+|-----------------------------|--------------------------------------------------------------------------------------------|
+| Automation                  | [DBA Examples](./Automation/README.md)                                                            |
+| Data Transform & Curate     | [SQL Developer Examples](./Role_SQL_Developer/README.md)                                         |
+| New Feature Exploration     | [Data Analyst Examples](./Role_Data_Analyst/README.md)                                           
 
 
 ## Data Transform & Curate
