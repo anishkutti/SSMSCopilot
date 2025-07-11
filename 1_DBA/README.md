@@ -28,3 +28,6 @@ Performance Metrics: Track key indicators like query execution time, index usage
 * Security Prompt: Conduct regular security audits and patch management
 * Security Prompt: Ensure compliance with data protection regulations (e.g., GDPR, HIPAA)
 * Security Prompt: Implement access controls, encryption, and authentication protocols.
+
+## Configuration
+* Set up alerts for job failures to email anishkutti@microsoft.com
