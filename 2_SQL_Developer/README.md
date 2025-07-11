@@ -19,7 +19,7 @@ SQL Server Management Studio (SSMS) Copilot is a powerful AI assistant that sign
 # Tunning and Re-writing
 * Add comments in the  stored proc dbo.GetCustomerOrders. Also re-write it
 *** Before:
-** ````
+````
   CREATE PROCEDURE GetCustomerOrders
     @CustomerID INT
    AS
