@@ -1,6 +1,9 @@
 # Setup SSMS
 
-<img width="572" height="350" alt="aidatasetup" src="https://github.com/user-attachments/assets/38e3ac0f-c914-48d3-81f8-8f55fa8755c7" />
+<kbd> 
+<img width="460" height="360" alt="ssmsCopilotBanner" src="https://github.com/user-attachments/assets/b81951cf-2c78-4b39-9e0e-b945ce50e43d" />
+</kbd> 
+<br/>
 
 With Copilot deveopers can now setup data in minutes instead of days
 
