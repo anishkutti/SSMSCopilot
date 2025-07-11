@@ -62,7 +62,7 @@ SQL Server Management Studio (SSMS) Copilot is a powerful AI assistant that sign
                WHERE Customer_ID = @CustomerID -- Filter by customer ID
            );
      END;
- ````
+
 ## Give query optimization for following query
 ````
 SELECT SaleID, CustomerID, SaleDate, TotalAmount
