@@ -63,3 +63,9 @@ SQL Server Management Studio (SSMS) Copilot is a powerful AI assistant that sign
            );
      END;
  ````
+## Give query optimization for following query
+````
+SELECT SaleID, CustomerID, SaleDate, TotalAmount
+FROM Sales
+WHERE SaleDate >= '2024-01-01' AND SaleDate < '2025-01-01';
+````
