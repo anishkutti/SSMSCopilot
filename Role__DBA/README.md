@@ -31,3 +31,14 @@ Performance Metrics: Track key indicators like query execution time, index usage
 
 ## Configuration
 * Set up alerts for job failures to email ..@..com
+
+## Monitor Access
+* How many users connected to this sql server in the last 1 day
+* Did any user run queries which took more than 1 minute
+* Did any user run queries against dbo.sales_demo table in the last 3 days
+
+## Monitor Processes
+* How many processes are currently running
+* Show the time taken by each running process
+* Any deadlocks in the last 5 days
+* 
