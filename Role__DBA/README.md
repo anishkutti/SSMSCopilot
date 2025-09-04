@@ -6,7 +6,7 @@ SSMS-Copilot augments DBA's capabilities by surfacing insights faster, and provi
 
 
 ## Monitor SQL Server Instance Health
-
+* Show me a query to monitor disk I/O usage in SQL Server
 * Prompt: Check uptime of the server
 * Prompt: Show  CPU/memory usage
 * Prompt: Show recent errors.  
@@ -25,10 +25,11 @@ Blocking and Deadlocks: Identify and resolve long-running queries or blocking ch
 Performance Metrics: Track key indicators like query execution time, index usage, and wait stats.
 
 ## Security Review
-* Security Prompt: Conduct regular security audits and patch management
-* Security Prompt: Ensure compliance with data protection regulations (e.g., GDPR, HIPAA)
-* Security Prompt: Implement access controls, encryption, and authentication protocols.
-
+* Show me the list of users in each database
+* Conduct regular security audits and patch management
+* Ensure compliance with data protection regulations (e.g., GDPR, HIPAA)
+* Implement access controls, encryption, and authentication protocols.
+  
 ## Configuration
 * Set up alerts for job failures to email ..@..com
 
@@ -41,4 +42,5 @@ Performance Metrics: Track key indicators like query execution time, index usage
 * How many processes are currently running
 * Show the time taken by each running process
 * Any deadlocks in the last 5 days
-* 
+* What’s the best way to identify slow-running queries?
+  
