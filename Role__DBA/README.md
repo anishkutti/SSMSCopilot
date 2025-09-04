@@ -29,7 +29,10 @@ Performance Metrics: Track key indicators like query execution time, index usage
 * Conduct regular security audits and patch management
 * Ensure compliance with data protection regulations (e.g., GDPR, HIPAA)
 * Implement access controls, encryption, and authentication protocols.
-  
+* "Create a script to audit login attempts on SQL Server."
+* "How do I enforce password policies for SQL Server logins?"
+* "List all users with sysadmin privileges."
+
 ## Configuration
 * Set up alerts for job failures to email ..@..com
 
