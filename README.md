@@ -21,7 +21,6 @@ Whether you're writing stored procedures, analyzing execution plans, or explorin
 | Role                        | Copilot Scenarios & Examples                                                                                   |
 |-----------------------------|--------------------------------------------------------------------------------------------|
 | Setup                       | [Setup](./0_Setup/README.md)                                                            |
-| Automation                  | [Automation Examples](./Automation/README.md)                                                            |
 | Data Transform & Curate     | [DataTransformation Examples](./Role_SQL_Developer/README.md)                                         |
 | New Feature Exploration     | [New Features Examples](./Role_Data_Analyst/README.md)                                           
 
