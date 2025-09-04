@@ -43,3 +43,8 @@ Whether you're writing stored procedures, analyzing execution plans, or explorin
 	* Show new t-sql enhancements in sql 2025	
 	
 	* Give example of JSON_ARRAYAGG
+
+
+
+# Disclaimer
+The info and links provided are for trying in a environment where users are not impacted. The AI generated output should be reviewed before applying 
