@@ -69,3 +69,6 @@ SELECT SaleID, CustomerID, SaleDate, TotalAmount
 FROM Sales
 WHERE SaleDate >= '2024-01-01' AND SaleDate < '2025-01-01';
 ````
+
+
+* create a stored proc which will load customer-_revenue fact table with data from product, sales and customer
